@@ -1,4 +1,4 @@
-# PokéBot - Discord Pokémon Assistant
+# Iris - Discord Pokémon Assistant
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 ## About
 
-PokéBot is a feature-rich Discord bot that brings the world of Pokémon to your server! With commands for looking up Pokémon information, playing games, and more, it's the perfect companion for any Pokémon fan community.
+Iris is a feature-rich Discord bot that brings the world of Pokémon to your server! With commands for looking up Pokémon information, playing games, and more, it's the perfect companion for any Pokémon fan community.
 
 ## Features
 
